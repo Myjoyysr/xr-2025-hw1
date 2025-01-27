@@ -122,7 +122,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _ClipRect: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 16, g: 16, b: 16, a: 0.90588236}
+    - _Color: {r: 4.2717505, g: 9.907407, b: 17.757082, a: 0.90588236}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _NoiseSpeed_Vector_2: {r: 0.01, g: -0.004, b: 0, a: 0}
     - _Speed_Vector2: {r: 0.001, g: 0.001, b: 0, a: 0}
